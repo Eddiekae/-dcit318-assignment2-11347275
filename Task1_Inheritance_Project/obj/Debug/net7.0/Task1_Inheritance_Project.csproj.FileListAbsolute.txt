@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\bin\Debug\net7.0\Task1_Inheritance_Project.exe
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\bin\Debug\net7.0\Task1_Inheritance_Project.deps.json
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\bin\Debug\net7.0\Task1_Inheritance_Project.runtimeconfig.json
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\bin\Debug\net7.0\Task1_Inheritance_Project.dll
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\bin\Debug\net7.0\Task1_Inheritance_Project.pdb
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\obj\Debug\net7.0\Task1_Inheritance_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\obj\Debug\net7.0\Task1_Inheritance_Project.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\obj\Debug\net7.0\Task1_Inheritance_Project.AssemblyInfo.cs
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\obj\Debug\net7.0\Task1_Inheritance_Project.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\obj\Debug\net7.0\Task1_Inheritance_Project.dll
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\obj\Debug\net7.0\refint\Task1_Inheritance_Project.dll
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\obj\Debug\net7.0\Task1_Inheritance_Project.pdb
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\obj\Debug\net7.0\Task1_Inheritance_Project.genruntimeconfig.cache
+C:\Users\PC\Desktop\dcit318-assignment2-11347275\-dcit318-assignment2-11347275\Task1_Inheritance_Project\obj\Debug\net7.0\ref\Task1_Inheritance_Project.dll
